@@ -50,6 +50,8 @@ Sara becomes not just a chatbot, but a **real task-performing AI agent**.
 | Email Automation | Gmail SMTP |
 | Hosting (optional) | Render / Replit / VPS |
 
+
+
 ---
 
 ## 🏗 Installation & Setup
