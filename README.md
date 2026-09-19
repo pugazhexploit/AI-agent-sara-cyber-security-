@@ -68,21 +68,21 @@ cd AI-agent-sara
 pip install requests
 ```
 3️⃣ Create required environment variables
-
+```
 export BOT_TOKEN="your_telegram_bot_token"
 export GEMINI_API_KEY="your_gemini_api_key"
 export EMAIL_USER="yourgmail@gmail.com"
 export EMAIL_PASS="your_gmail_app_password"
-
+```
 🔹 EMAIL_PASS must be a Gmail App Password, not regular Gmail password.
 
 
 ---
 
 ▶️ Run the Bot
-
+```
 python3 ai_agent_sara.py
-
+```
 You’ll see:
 
 🤖 AI-Agent-Sara is now online...
