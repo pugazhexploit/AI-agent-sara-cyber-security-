@@ -64,9 +64,9 @@ git clone https://github.com/PugazhTheHacker/AI-agent-sara.git
 cd AI-agent-sara
 ```
 2️⃣ Install dependency
-
+```
 pip install requests
-
+```
 3️⃣ Create required environment variables
 
 export BOT_TOKEN="your_telegram_bot_token"
