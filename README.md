@@ -3,6 +3,11 @@
 </p>
  
 
+# 🤖 AI-Agent-Sara — Telegram Automation AI Agent (Gemini + Email Sender)
+
+AI-Agent-Sara is an intelligent conversational Telegram bot powered by **Google Gemini AI**.  
+The bot acts as a personal AI assistant that can reply smartly to chats and also perform automated tasks such as **sending emails directly from Telegram**.
+
 
 
 Sara is built in **Python** and integrates three core systems:
